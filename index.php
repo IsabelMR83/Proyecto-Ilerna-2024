@@ -3,7 +3,7 @@
 <head>
     <title>Cine Club Saura</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="assets/css/styles.css"/>
 </head>
 <body>
     <!--CONTENEDOR PRINCIPAL-->
